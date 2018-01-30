@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">phonebookpractice</string>
+    <string name="detail_name_txt">Name</string>
+    <string name="detail_number_txt">Number</string>
+    <string name="detail_description_txt">Description</string>
+    <string name="detail_save_btn">Save</string>
+</resources>
